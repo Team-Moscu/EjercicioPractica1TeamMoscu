@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Escritorio\CEI\Programacion 2\Ejercicios\Programacion practica 1\EJ 7 Objetos\EJ 7 Objetos\bin\Debug\EJ 7 Objetos.exe.config
+C:\Users\Admin\OneDrive\Escritorio\CEI\Programacion 2\Ejercicios\Programacion practica 1\EJ 7 Objetos\EJ 7 Objetos\bin\Debug\EJ 7 Objetos.exe
+C:\Users\Admin\OneDrive\Escritorio\CEI\Programacion 2\Ejercicios\Programacion practica 1\EJ 7 Objetos\EJ 7 Objetos\bin\Debug\EJ 7 Objetos.pdb
+C:\Users\Admin\OneDrive\Escritorio\CEI\Programacion 2\Ejercicios\Programacion practica 1\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Escritorio\CEI\Programacion 2\Ejercicios\Programacion practica 1\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Escritorio\CEI\Programacion 2\Ejercicios\Programacion practica 1\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Escritorio\CEI\Programacion 2\Ejercicios\Programacion practica 1\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.exe
+C:\Users\Admin\OneDrive\Escritorio\CEI\Programacion 2\Ejercicios\Programacion practica 1\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion2\Ejercicios de competencia\EjerciciosPractica1-main\Src\EJ 7 Objetos\EJ 7 Objetos\bin\Debug\EJ 7 Objetos.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion2\Ejercicios de competencia\EjerciciosPractica1-main\Src\EJ 7 Objetos\EJ 7 Objetos\bin\Debug\EJ 7 Objetos.exe
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion2\Ejercicios de competencia\EjerciciosPractica1-main\Src\EJ 7 Objetos\EJ 7 Objetos\bin\Debug\EJ 7 Objetos.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion2\Ejercicios de competencia\EjerciciosPractica1-main\Src\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion2\Ejercicios de competencia\EjerciciosPractica1-main\Src\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion2\Ejercicios de competencia\EjerciciosPractica1-main\Src\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.exe
+C:\Users\Usuario\OneDrive\Escritorio\Cei\Programacion2\Ejercicios de competencia\EjerciciosPractica1-main\Src\EJ 7 Objetos\EJ 7 Objetos\obj\Debug\EJ 7 Objetos.pdb

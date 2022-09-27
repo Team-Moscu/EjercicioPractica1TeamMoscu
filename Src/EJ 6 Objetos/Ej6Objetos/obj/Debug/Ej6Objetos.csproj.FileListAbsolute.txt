@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Ej6Objetos\Ej6Objetos\bin\Debug\Ej6Objetos.exe.config
+C:\Users\Usuario\source\repos\Ej6Objetos\Ej6Objetos\bin\Debug\Ej6Objetos.exe
+C:\Users\Usuario\source\repos\Ej6Objetos\Ej6Objetos\bin\Debug\Ej6Objetos.pdb
+C:\Users\Usuario\source\repos\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.exe
+C:\Users\Usuario\source\repos\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.pdb
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\Ej6Objetos\Ej6Objetos\bin\Debug\Ej6Objetos.exe.config
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\Ej6Objetos\Ej6Objetos\bin\Debug\Ej6Objetos.exe
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\Ej6Objetos\Ej6Objetos\bin\Debug\Ej6Objetos.pdb
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.exe
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\Ej6Objetos\Ej6Objetos\obj\Debug\Ej6Objetos.pdb

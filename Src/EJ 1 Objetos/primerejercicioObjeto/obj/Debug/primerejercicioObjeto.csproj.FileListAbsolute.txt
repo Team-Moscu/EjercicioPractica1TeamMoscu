@@ -1,0 +1,24 @@
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Ejercicios basicos\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.exe.config
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Ejercicios basicos\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.exe
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Ejercicios basicos\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.pdb
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Ejercicios basicos\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Ejercicios basicos\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Ejercicios basicos\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Ejercicios basicos\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.exe
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Ejercicios basicos\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.pdb
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Practico 1\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.exe.config
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Practico 1\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.exe
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Practico 1\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.pdb
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Practico 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Practico 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Practico 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Practico 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.exe
+C:\Users\Admin\OneDrive\Escritorio\estudios\Cei\analista en programador\Programacion 2\Practico 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.pdb
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.exe.config
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.exe
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\primerejercicioObjeto\primerejercicioObjeto\bin\Debug\primerejercicioObjeto.pdb
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.exe
+C:\Users\Admin\OneDrive\Escritorio\Ejercicio práctica 1\primerejercicioObjeto\primerejercicioObjeto\obj\Debug\primerejercicioObjeto.pdb
